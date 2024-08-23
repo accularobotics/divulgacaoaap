@@ -1,0 +1,30 @@
+* {
+   margin: 0px;
+   padding: 0px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav{
+   
+   width: ;
+   
+}
+
+.divulgacao{
+   
+}
+
+.divulgacao>figure{
+   display: inline-block;
+   width: 33%;
+}
+
+footer article {
+   display: inline-block;
+   width: 33%;
+}
+
+.soparabotao {
+   display:flex;
+   margin: 8px;
+}
