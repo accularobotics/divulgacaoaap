@@ -2,6 +2,12 @@
    margin: 0px;
    padding: 0px;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 100%;
+}
+
+
+body{
+   background-color: rgb(209, 207, 207);
 }
 
 header{
@@ -28,24 +34,32 @@ nav>a{
 }
 
 .divulgacao{
-   margin: 10px 0px 20px 20px;
+   margin: 20px 0px 0px 0px;
    padding: 10px;
 }
 
+
+.divulgacao>article>p{
+   margin: 10px 0px 20px 20px;
+}
+
+.divulgacao>article>a{
+   margin: 0px 20px 0px 20px;
+}
 
 .imagens>figure{
    display: inline-block;
    width: 30%;
-   padding: 10px;
+   padding: 20px;
    margin: 10px 0px 20px 0px;
 }
 
 
-.funcao{
+.funcao>article{
    display: inline-block;
-   width: 33%;
+   width: 40%;
    padding: 10px;
-   margin: 10px 0px 20px 0px;
+   margin: 20px 60px 40px 35px;
 }
 
 
