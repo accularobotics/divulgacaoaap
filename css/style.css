@@ -127,3 +127,26 @@ footer>section>article{
 .email>input{
    border-radius: 5px ;
 }
+
+#ceo {
+   display: inline-block;
+   text-align: center;
+
+}
+
+#ceo1{
+   float: left;
+   width: 48%;
+
+}
+
+#ceo2 {
+   float: right;
+   width: 48%;
+   padding: 25px 25px 25px 25px ;
+}
+
+.imagemceo{
+
+   padding: 20px 20px 20px 20px ;
+}
