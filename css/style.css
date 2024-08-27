@@ -98,9 +98,29 @@ footer article {
 
 footer input{
    display:flex;
-   display: inline-block;
-   height: 30px;
-   width:70px
+    display: inline-block; */
+   height: 40px;
+   width:500px
    margin: 8px;
    
 }
+
+
+footer>section {
+   display: inline-block;
+
+
+}
+
+
+footer>section>article {
+   width:  33%;
+
+
+}
+
+footer{
+
+   margin: 10px 0px 10px 20px;
+}
+
