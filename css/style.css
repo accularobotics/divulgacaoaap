@@ -3,6 +3,7 @@
    padding: 0px;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-size: 100%;
+   text-decoration: none;
 }
 
 
@@ -31,11 +32,18 @@ nav>a{
    padding: 5px;
    text-align: right;
    display: inline-block;
+   color: rgb(75, 75, 72);
+}
+
+nav>a:hover{
+   color: rgb(37, 36, 36);
 }
 
 .divulgacao{
    margin: 20px 0px 0px 0px;
    padding: 10px;
+   background-color: rgb(37, 36, 36);
+   color: rgb(218, 221, 224);
 }
 
 
@@ -49,17 +57,20 @@ nav>a{
 
 .imagens>figure{
    display: inline-block;
-   width: 30%;
-   padding: 20px;
-   margin: 10px 0px 20px 0px;
+   width: 33%;
+   margin: 20px 1px 40px 0px;
 }
 
+.funcao{
+   background-color: rgb(37, 36, 36);
+}
 
 .funcao>article{
    display: inline-block;
-   width: 40%;
+   width: 15%;
    padding: 10px;
    margin: 20px 60px 40px 35px;
+   color: rgb(218, 221, 224);
 }
 
 
